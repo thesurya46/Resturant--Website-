@@ -18,7 +18,7 @@ This is a complete restaurant website for "Food Hub" featuring menu display, sho
 - 🎨 Modern UI with Tailwind CSS
 - 🔔 Notifications system
 
-## Sample Dishes
+## Sample Dishes :
 
 | Category | Image | Description |
 |----------|-------|-------------|
