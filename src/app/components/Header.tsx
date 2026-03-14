@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import { ShoppingCart, Menu, X } from 'lucide-react';
+import { ShoppingCart, Menu, X, Search } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import { useState } from 'react';
 
@@ -35,6 +35,12 @@ export function Header() {
           </nav>
 
           <div className="flex items-center space-x-4">
+            <button
+              className="p-2 bg-gradient-to-br from-orange-400 via-red-400 to-pink-500 text-white shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200"
+              title="Search"
+            >
+              <Search className="w-6 h-6" />
+            </button>
             <Link
               to="/cart"
               className="relative p-2 hover:bg-gray-100 rounded-full transition-colors"
