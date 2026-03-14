@@ -9,7 +9,7 @@ A modern, responsive restaurant website built with React, TypeScript, and Tailwi
 
 This is a complete restaurant website for "Food Hub" featuring menu display, shopping cart, checkout functionality, and a beautiful UI design.
 
-## Features
+## Features :
 
 - 🍔 Menu display with categories
 - 🛒 Shopping cart functionality
