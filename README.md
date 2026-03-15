@@ -76,8 +76,8 @@ src/
 ├── styles/             # CSS files
 └── main.tsx            # Entry point
 ```
-
-## License
+ 
+## License :
 
 This project is for demonstration purposes.
   
