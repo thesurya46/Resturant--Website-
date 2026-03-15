@@ -34,7 +34,7 @@ This is a complete restaurant website for "Food Hub" featuring menu display, sho
 ### Popular Dishes :
 ![Featured Dishes](https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=300&fit=crop)
 
-### Desserts
+### Desserts :
 ![Desserts](https://images.unsplash.com/photo-1551024601-bec78aea704b?w=800&h=300&fit=crop)
 
 ### Beverages
