@@ -48,7 +48,7 @@ This is a complete restaurant website for "Food Hub" featuring menu display, sho
 - **Database**: Supabase (optional)
 - **UI Components**: Radix UI
 
-## Getting Started
+## Getting Started :
 
 1. Install dependencies:
    ```bash
