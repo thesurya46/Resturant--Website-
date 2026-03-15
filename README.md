@@ -62,7 +62,7 @@ This is a complete restaurant website for "Food Hub" featuring menu display, sho
 
 3. Open your browser and visit `http://localhost:5173`
 
-## Project Structure
+## Project Structure :
 
 ```
 src/
